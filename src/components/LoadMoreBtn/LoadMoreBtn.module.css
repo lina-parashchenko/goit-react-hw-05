@@ -1,0 +1,18 @@
+.load-more-wrapper {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.load-more-button {
+  background-color: #14a6e4;
+  color: rgba(241, 183, 223, 0.912);
+  padding: 10px 20px;
+  font-size: 16px;
+  border: 1px solid #14a6e4;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.load-more-button:hover {
+  background-color: #0056b3;
+}
